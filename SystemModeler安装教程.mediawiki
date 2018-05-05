@@ -47,8 +47,10 @@
 [[http://wx2.sinaimg.cn/mw690/0060lm7Tly1fr0j9q2vzmj30iz0dcgmb.jpg]]
 
 [[http://wx1.sinaimg.cn/mw690/0060lm7Tly1fr0j9owwffj30ed05wjrf.jpg]]
+
 点“OK”，就会出现这个：
 [[http://wx1.sinaimg.cn/mw690/0060lm7Tly1fr0j9p4u33j30df03nq2v.jpg]]
+
 再点“OK”，一切就都结束了——才怪，很多情况下你接下来还会看到这个：
 [[http://wx2.sinaimg.cn/mw690/0060lm7Tly1fr0j9peqpuj30il04laa3.jpg]]
 

@@ -1,0 +1,55 @@
+首先还是那句话，'''用盗版是不得已的，大家有能力的话还是要支持正版！'''
+
+本教程目前针对的是4.0.1的安装和激活。版本5的……暂时没见人发。
+
+于是乎，这个SystemModeler应该怎么激活呢？简单地说，大家把[http://pan.baidu.com/s/1sjqPVxr 这个链接]里面的东西全部下载下来，然后按照readme.txt里说的装上就行了。激活的时候要是不会用命令行的话就双击那个名字叫“不会使用命令行开注册机的同学请双击这个文件，注意这个文件必须要和注册机在同一个文件夹里.bat”的文件。好了，该说的都说明白了，大家伙儿散了吧散了吧！——
+
+好吧，虽然我觉得上面这段说明已经做到了简洁与清晰的完美结合，但是，如果你看完了还是不知道该怎么弄，那就往下看吧。
+
+本教程仅针对Windows下的SystemModeler的激活，Linux和Mac下的激活（大概是）大同小异的。<s>话说都已经用上Mac和Linux这样高大上的东西了，激活什么的不是理应自己搞定吗。</s>
+
+'''第一步'''，把上面那个链接里（别告诉我你不知道是哪个链接）的文件都给下下来，一共应该是4样东西：
+
+1.　SystemModeler_4.0.1_WIN.exe，这个就是SystemModeler的安装包。
+
+2.　SystemModeler_4.0.1_Keygen.exe，这个就是注册机。
+
+3.　readme.txt，这个是注册机的制作者给我们提供的使用说明，虽然是英文的，但是只有短短几行，应该构不成阅读障碍。'''其实读完这几行字就应该知道如何激活了'''，<s>而且说句不中听的，因为目前SystemModeler没有中文版，所以如果你连上面这几行英文都看不下去的话那你准备怎么学这个软件，啊？</s>
+
+4.　文件名为“不会使用命令行开注册机的同学请双击这个文件，注意这个文件必须要和注册机在同一个文件夹里.bat”的批处理文件一个，这文件是本页面的编写者写的一个小文件，用于简化SystemModeler_4.0.1_Keygen.exe的调用——唉呀放心这文件是安全的，不信你可以用记事本把它打开看看，就短短两行就算不懂命令行也能明白它是啥意思的命令。
+
+'''第二步'''，双击SystemModeler_4.0.1_WIN.exe，开始安装。这一步没啥好多说的。再说一遍，'''SystemModeler目前没中文版'''。
+
+'''第三步'''，装好SystemModeler之后再打开，我们便来到了这个页面：
+
+[[http://wx4.sinaimg.cn/mw690/0060lm7Tly1fr0j9pmoqej30ii0cadhd.jpg]]
+
+我们点击下方的Other ways to activate，就来到了这个页面：
+[[http://wx4.sinaimg.cn/mw690/0060lm7Tly1fr0j9prhifj30ii0cadh5.jpg]]
+
+我们自然选择中间的Manual Activation，于是便来到了这个页面：
+
+咱们把这个MathID复制下来（你要背下来或者抄下来也可以），接下来就该去开注册机了。
+
+'''第四步'''，还记得我们的“不会使用命令行开注册机的同学请双击这个文件，注意这个文件必须要和注册机在同一个文件夹里.bat”文件吗？现在双击它，注意，就如它的文件名所写的一样，'''它必须要和SystemModeler_4.0.1_Keygen.exe位于同一目录中'''。这个窗口将会弹出来：
+[[http://wx2.sinaimg.cn/mw690/0060lm7Tly1fr0j9peqpuj30il04laa3.jpg]]
+
+接下来只要把之前那个MathID抄进去或者贴进去（没错，命令行窗口是支持右键粘贴的）再回车就行了。所得的Activation Key和Password都贴回之前的窗口里，然后点Activate，你将看到这个窗口：
+[[http://wx4.sinaimg.cn/mw690/0060lm7Tly1fr0j9p7wtej30ii0cagmw.jpg]]
+
+'''无视它就好'''（我点的是右上的叉，其他几个键按了是什么效果我不知道）。至此，SystemModeler注册完成。
+
+'''第五步'''，虽然到第四步为止注册就已经完成了但是既然都写了这么多了那就把之后的事情也一并说了吧。总之之后你将看到这个：
+[[http://wx1.sinaimg.cn/mw690/0060lm7Tly1fr0j9p4u33j30df03nq2v.jpg]]
+
+这是叫你把你要链上的Mathematica给找出来（没错，一台电脑上是允许Mathematica多版本共存的），总之，接下来你需要大致像这样把你的Mathematica所在的文件夹翻出来：
+[[http://wx2.sinaimg.cn/mw690/0060lm7Tly1fr0j9q2vzmj30iz0dcgmb.jpg]]
+
+[[http://wx1.sinaimg.cn/mw690/0060lm7Tly1fr0j9owwffj30ed05wjrf.jpg]]
+[[http://wx2.sinaimg.cn/mw690/0060lm7Tly1fr0j9ov6ptj30ii0cajsj.jpg]]
+点“OK”，就会出现这个：
+[[http://wx1.sinaimg.cn/mw690/0060lm7Tly1fr0j9oasszj30it0cbjra.jpg]]
+再点“OK”，一切就都结束了——才怪，很多情况下你接下来还会看到这个：
+[[http://wx3.sinaimg.cn/mw690/0060lm7Tly1fr0j9oa1o7j30ed05w3yi.jpg]]
+会弹出这个窗口是因为SystemModeler是要求你的电脑上同时安装有'''C++编译器'''的。这里要告诉大家一个遗憾的消息，那就是截止4.0.1版，SystemModeler的Windows版本，'''只认微软家的编译器'''。（上面这个框里推荐了一个。）当然啦，微软家的编译器'''是有免费版'''的，只是，它的体积很大……诸位想用SystemModeler就去下一个吧（笔者因为青睐体积小巧的TDM-GCC所以一直没去下载），这篇教程也就到这里为止了。
+

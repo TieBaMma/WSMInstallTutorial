@@ -22,12 +22,13 @@
 
 '''第三步'''，装好SystemModeler之后再打开，我们便来到了这个页面：
 
-[[http://wx4.sinaimg.cn/mw690/0060lm7Tly1fr0j9pmoqej30ii0cadhd.jpg]]
-
-我们点击下方的Other ways to activate，就来到了这个页面：
 [[http://wx4.sinaimg.cn/mw690/0060lm7Tly1fr0j9prhifj30ii0cadh5.jpg]]
 
+我们点击下方的Other ways to activate，就来到了这个页面：
+[[http://wx4.sinaimg.cn/mw690/0060lm7Tly1fr0j9pmoqej30ii0cadhd.jpg]]
+
 我们自然选择中间的Manual Activation，于是便来到了这个页面：
+[[http://wx4.sinaimg.cn/mw690/0060lm7Tly1fr0j9p7wtej30ii0cagmw.jpg]]
 
 咱们把这个MathID复制下来（你要背下来或者抄下来也可以），接下来就该去开注册机了。
 
@@ -35,7 +36,6 @@
 [[http://wx2.sinaimg.cn/mw690/0060lm7Tly1fr0j9peqpuj30il04laa3.jpg]]
 
 接下来只要把之前那个MathID抄进去或者贴进去（没错，命令行窗口是支持右键粘贴的）再回车就行了。所得的Activation Key和Password都贴回之前的窗口里，然后点Activate，你将看到这个窗口：
-[[http://wx4.sinaimg.cn/mw690/0060lm7Tly1fr0j9p7wtej30ii0cagmw.jpg]]
 
 '''无视它就好'''（我点的是右上的叉，其他几个键按了是什么效果我不知道）。至此，SystemModeler注册完成。
 

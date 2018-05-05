@@ -21,11 +21,10 @@
 '''第二步'''，双击SystemModeler_4.0.1_WIN.exe，开始安装。这一步没啥好多说的。再说一遍，'''SystemModeler目前没中文版'''。
 
 '''第三步'''，装好SystemModeler之后再打开，我们便来到了这个页面：
-
-[[http://wx4.sinaimg.cn/mw690/0060lm7Tly1fr0j9prhifj30ii0cadh5.jpg]]
+[[http://wx4.sinaimg.cn/mw690/0060lm7Tly1fr0j9pmoqej30ii0cadhd.jpg]]
 
 我们点击下方的Other ways to activate，就来到了这个页面：
-[[http://wx4.sinaimg.cn/mw690/0060lm7Tly1fr0j9pmoqej30ii0cadhd.jpg]]
+[[http://wx4.sinaimg.cn/mw690/0060lm7Tly1fr0j9prhifj30ii0cadh5.jpg]]
 
 我们自然选择中间的Manual Activation，于是便来到了这个页面：
 [[http://wx4.sinaimg.cn/mw690/0060lm7Tly1fr0j9p7wtej30ii0cagmw.jpg]]
@@ -33,13 +32,15 @@
 咱们把这个MathID复制下来（你要背下来或者抄下来也可以），接下来就该去开注册机了。
 
 '''第四步'''，还记得我们的“不会使用命令行开注册机的同学请双击这个文件，注意这个文件必须要和注册机在同一个文件夹里.bat”文件吗？现在双击它，注意，就如它的文件名所写的一样，'''它必须要和SystemModeler_4.0.1_Keygen.exe位于同一目录中'''。这个窗口将会弹出来：
-[[http://wx2.sinaimg.cn/mw690/0060lm7Tly1fr0j9peqpuj30il04laa3.jpg]]
+[[http://wx1.sinaimg.cn/mw690/0060lm7Tly1fr0j9oasszj30it0cbjra.jpg]]
 
 接下来只要把之前那个MathID抄进去或者贴进去（没错，命令行窗口是支持右键粘贴的）再回车就行了。所得的Activation Key和Password都贴回之前的窗口里，然后点Activate，你将看到这个窗口：
 
 '''无视它就好'''（我点的是右上的叉，其他几个键按了是什么效果我不知道）。至此，SystemModeler注册完成。
 
 '''第五步'''，虽然到第四步为止注册就已经完成了但是既然都写了这么多了那就把之后的事情也一并说了吧。总之之后你将看到这个：
+[[http://wx3.sinaimg.cn/mw690/0060lm7Tly1fr0j9oa1o7j30ed05w3yi.jpg]]
+
 [[http://wx1.sinaimg.cn/mw690/0060lm7Tly1fr0j9p4u33j30df03nq2v.jpg]]
 
 这是叫你把你要链上的Mathematica给找出来（没错，一台电脑上是允许Mathematica多版本共存的），总之，接下来你需要大致像这样把你的Mathematica所在的文件夹翻出来：
@@ -48,8 +49,9 @@
 [[http://wx1.sinaimg.cn/mw690/0060lm7Tly1fr0j9owwffj30ed05wjrf.jpg]]
 [[http://wx2.sinaimg.cn/mw690/0060lm7Tly1fr0j9ov6ptj30ii0cajsj.jpg]]
 点“OK”，就会出现这个：
-[[http://wx1.sinaimg.cn/mw690/0060lm7Tly1fr0j9oasszj30it0cbjra.jpg]]
+
 再点“OK”，一切就都结束了——才怪，很多情况下你接下来还会看到这个：
-[[http://wx3.sinaimg.cn/mw690/0060lm7Tly1fr0j9oa1o7j30ed05w3yi.jpg]]
+[[http://wx2.sinaimg.cn/mw690/0060lm7Tly1fr0j9peqpuj30il04laa3.jpg]]
+
 会弹出这个窗口是因为SystemModeler是要求你的电脑上同时安装有'''C++编译器'''的。这里要告诉大家一个遗憾的消息，那就是截止4.0.1版，SystemModeler的Windows版本，'''只认微软家的编译器'''。（上面这个框里推荐了一个。）当然啦，微软家的编译器'''是有免费版'''的，只是，它的体积很大……诸位想用SystemModeler就去下一个吧（笔者因为青睐体积小巧的TDM-GCC所以一直没去下载），这篇教程也就到这里为止了。
 
